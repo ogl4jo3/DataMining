@@ -16,8 +16,8 @@ import java.util.Calendar;
 public class Main {
     // FILE NAME: T15I7N0.5KD1K  T15I7N0.5KD10K  T15I7N0.5KD100K  T15I7N0.5KD1000K
     // Sup:     5   50  500 30000
-    private static String FILE_NAME = "T15I7N0.5KD1K.txt";
-    private static int sup = 5;
+    private static String FILE_NAME = "T15I7N0.5KD1000K.txt";
+    private static int sup = 30000;
     private static PrintWriter writer;
     private static int frqItem = 0;
     private static int numItems = 0;       //物品總數
